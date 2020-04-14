@@ -56,7 +56,7 @@ A curated list of publication for depth estimation
 
 [4] Luo et al, Single View Stereo Matching, CVPR 2018, [Code](https://github.com/lawy623/SVS)
 
-[5] Godard et al, Digging Into Self-Supervised Monocular Depth Estimation, aXiv 2018, [PDF](https://arxiv.org/abs/1711.07933)
+[5] Godard et al, Digging Into Self-Supervised Monocular Depth Estimation, ICCV 2019, [PDF](https://arxiv.org/abs/1711.07933), [Code](https://github.com/nianticlabs/monodepth2)
 
 [6] Lai et al, Bridging Stereo Matching and Optical Flow via Spatio temporal, CVPR 2019, [PDF](https://arxiv.org/pdf/1905.09265.pdf), [Code](https://github.com/lelimite4444/)
 
